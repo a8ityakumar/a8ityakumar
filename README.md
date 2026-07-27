@@ -1,31 +1,13 @@
-## Hi there 👋
-I'm Aditya, a programer based in India.
+# 💫 About Me:
+I'm Aditya, a programer based in India.<br><br>I build whatever I imagine. if an idea pops into my head, chances are I'll build it and sell/ship it.<br><br>I'm not a well established coder or programmer I've just started but I know I'll be a good programer in future due to my hardwork.<br><br>I'll pin my projests so that you can see them or even use them.<br><br>Fun Facts-<br><br>I have a dog.<br>I love coffee.<br>Deamon Slayer is my fav anime.<br>Hobbies: Music, Gym, building things.
 
-I build whatever I imagine.
-if an idea pops into my head, chances are I'll build it and sell/ship it.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=a8ityakumar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-I'm not a well established coder or programmer I've just started but I know I'll be a good
-programer in future due to my hardwork.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I'll pin my projests so that you can see them or even use them.
+---
+[![](https://komarev.com/ghpvc/?username=a8ityakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Fun Facts-
- - I have a dog.
- - I love coffee.
- - Deamon Slayer is my fav anime.
- - Hobbies: Music, Gym, building things.
-
-<!--
-**a8ityakumar/a8ityakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
