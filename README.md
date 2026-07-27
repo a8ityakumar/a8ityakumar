@@ -7,7 +7,5 @@ I'm Aditya, a programer based in India.<br><br>I build whatever I imagine. if an
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=a8ityakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
